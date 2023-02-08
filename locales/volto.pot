@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Plone\n"
-"POT-Creation-Date: 2022-12-12T12:33:16.481Z\n"
+"POT-Creation-Date: 2023-02-08T17:02:07.814Z\n"
 "Last-Translator: Plone i18n <plone-i18n@lists.sourceforge.net>\n"
 "Language-Team: Plone i18n <plone-i18n@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -2553,6 +2553,11 @@ msgstr ""
 #: components/theme/Register/Register
 # defaultMessage: Registration form
 msgid "Registration form"
+msgstr ""
+
+#: components/theme/RelatedItems/RelatedItems
+# defaultMessage: Related Items
+msgid "Related Items"
 msgstr ""
 
 #: components/theme/Search/Search

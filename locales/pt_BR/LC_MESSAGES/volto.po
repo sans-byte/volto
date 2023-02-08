@@ -2563,6 +2563,11 @@ msgstr "Cadastro"
 msgid "Registration form"
 msgstr "Formulário de cadastro"
 
+#: components/theme/RelatedItems/RelatedItems
+# defaultMessage: Related Items
+msgid "Related Items"
+msgstr "Itens relacionados"
+
 #: components/theme/Search/Search
 # defaultMessage: Relevance
 msgid "Relevance"
