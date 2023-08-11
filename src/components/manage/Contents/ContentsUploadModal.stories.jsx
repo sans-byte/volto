@@ -27,7 +27,8 @@ function StoryComponent(args) {
       <IntlContentUploadModalComponent
         {...args}
         pathname="/blog"
-        open={true}
+        loading={false}
+        loaded={true}
         onOk={() => {}}
         onCancel={() => {}}
       />
@@ -38,8 +39,7 @@ function StoryComponent(args) {
 export const ContentUploadModal = StoryComponent.bind({});
 
 ContentUploadModal.args = {
-  loading: false,
-  loaded: true,
+  open: false,
 };
 
 export default {
