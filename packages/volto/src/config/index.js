@@ -24,6 +24,7 @@ import { styleClassNameConverters, styleClassNameExtenders } from './Style';
 import {
   controlPanelsIcons,
   filterControlPanels,
+  filterControlPanelsSchema,
   unwantedControlPanelsFields,
 } from './ControlPanels';
 
@@ -151,6 +152,7 @@ let config = {
     controlpanels: [],
     controlPanelsIcons,
     filterControlPanels,
+    filterControlPanelsSchema,
     unwantedControlPanelsFields,
     externalRoutes: [
       // URL to be considered as external
